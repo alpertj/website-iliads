@@ -14,7 +14,7 @@ minima:
   skin: auto # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
 
 # Build settings
-baseurl: /wesbite-iliads
+baseurl: /website-iliads
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
